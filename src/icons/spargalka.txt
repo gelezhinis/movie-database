@@ -1,3 +1,0 @@
-{/* movies.find(movie => {}
-                  return <ul className="list"><li key={movie.id}>{movie.original_title}</li></ul>
-               }) : null */}
